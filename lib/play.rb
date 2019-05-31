@@ -43,6 +43,6 @@ def play(board)
     if counter > 9
       break
     end
-  counter += 1
+    counter += 1
   end
 end
